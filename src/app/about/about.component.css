@@ -1,0 +1,13 @@
+.text{
+    line-height: 1.5;
+    text-align: justify
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    background-color: blueviolet;
+    padding: 10px 20px;
+    
+}
